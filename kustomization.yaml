@@ -1,2 +1,3 @@
 resources:
+  - best-practices/restrict-node-port/restrict-node-port.yaml
   - pod-security
