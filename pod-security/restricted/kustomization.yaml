@@ -5,4 +5,4 @@ resources:
   - require-run-as-non-root-user/require-run-as-non-root-user.yaml
   - require-run-as-nonroot/require-run-as-nonroot.yaml
   - restrict-seccomp-strict/restrict-seccomp-strict.yaml
-  #- restrict-volume-types/restrict-volume-types.yaml
+  - restrict-volume-types/restrict-volume-types.yaml
